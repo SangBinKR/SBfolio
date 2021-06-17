@@ -68,3 +68,10 @@ function initCarousel(id) {
 function getAll(selector) {
     return Array.prototype.slice.call(document.querySelectorAll(selector), 0);
 }
+
+function openCode(){
+	
+}
+
+
+
